@@ -7,6 +7,7 @@ First, we reviewed several images to understand what is the Fibonacci number and
 ![image alt](https://github.com/JustinRodneyblessup/-Justin-.github.io-fsm_Fibonacci/blob/main/fibonacci_number.png?raw=true)  
 Next, the design specifications required for the circuit are listed in the table below.  
 | Input  |      clk       | Time pulse                                                                               |
+| ------ | -------------- | ---------------------------------------------------------------------------------------- |
 | Input  |     rst_n      | Reset                                                                                    |
 | Input  |    in_valid    | Input a valid signal                                                                     |
 | Input  | [7:0] in_level | This represents the value (Fn) for which level is required, and is valid when in_valid=1 |
