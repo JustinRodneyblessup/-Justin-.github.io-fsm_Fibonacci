@@ -9,7 +9,8 @@ Next, the design specifications required for the circuit are listed in the table
 |First Header  |Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |  
+| Content Cell  | Content Cell  |                    
+
 The finite state machine for this project is shown below.  
 ![image alt](https://github.com/JustinRodneyblessup/-Justin-.github.io-fsm_Fibonacci/blob/main/fsm_fibonacci.jpg?raw=true)  
 Finally, the waveform results are presented.  
