@@ -6,7 +6,7 @@ First, we reviewed several images to understand what is the Fibonacci number and
 ![image alt](https://github.com/JustinRodneyblessup/-Justin-.github.io-fsm_Fibonacci/blob/main/fibonacci_view.png?raw=true)  
 ![image alt](https://github.com/JustinRodneyblessup/-Justin-.github.io-fsm_Fibonacci/blob/main/fibonacci_number.png?raw=true)  
 Next, the design specifications required for the circuit are listed in the table below.  
-| First Header  | Second Header |
+|First Header  |Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |  
